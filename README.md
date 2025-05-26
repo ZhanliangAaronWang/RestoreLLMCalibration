@@ -5,6 +5,22 @@
 [📄 Paper on OpenReview](https://openreview.net/forum?id=51tMpvPNSm&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
 ---
+
+## 🧰 Code Structure
+
+```bash
+.
+├── scripts/             # Training & evaluation scripts
+├── models/              # LoRA + Fine-tuning code
+├── calibrate/           # CFT and RCFT methods
+├── data/                # Dataset processing
+├── plots/               # Calibration visualizations
+└── README.md            # This file
+```
+
+---
+
+---
 ## 📌 Citation
 
 ```bibtex
