@@ -17,9 +17,17 @@
 ├── plots/               # Calibration visualizations
 └── README.md            # This file
 ```
-
 ---
 
+## 🚀 Getting Started
+
+### 1. Environment Setup
+
+```bash
+conda create -n llm-calibration python=3.10
+conda activate llm-calibration
+pip install -r requirements.txt
+```
 ---
 ## 📌 Citation
 
