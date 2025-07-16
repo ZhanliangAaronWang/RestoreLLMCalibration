@@ -11,9 +11,10 @@
 ```bash
 .
 ├── scripts/             # Training & evaluation scripts
-├── models/              # LoRA + Fine-tuning code
-├── calibrate/           # CFT and RCFT methods
+├── train/               # LoRA + Fine-tuning code
+├── inference/           # Inference Code
 ├── data/                # Dataset processing
+├── utils/               # Util functions
 ├── plots/               # Calibration visualizations
 └── README.md            # This file
 ```
