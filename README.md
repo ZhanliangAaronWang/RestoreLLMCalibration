@@ -33,11 +33,14 @@ pip install -r requirements.txt
 ## 📌 Citation
 
 ```bibtex
-@inproceedings{xiao2025restoring,
-  title     = {Restoring Calibration for Aligned Large Language Models: A Calibration-Aware Fine-Tuning Approach},
-  author    = {Xiao, Jiancong and Hou, Bojian and Wang, Zhanliang and Jin, Ruochen and Long, Qi and Su, Weijie J. and Shen, Li},
-  booktitle = {International Conference on Machine Learning (ICML)},
-  year      = {2025}
+@misc{xiao2025restoringcalibrationalignedlarge,
+      title={Restoring Calibration for Aligned Large Language Models: A Calibration-Aware Fine-Tuning Approach}, 
+      author={Jiancong Xiao and Bojian Hou and Zhanliang Wang and Ruochen Jin and Qi Long and Weijie J. Su and Li Shen},
+      year={2025},
+      eprint={2505.01997},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.01997}, 
 }
 ```
 
